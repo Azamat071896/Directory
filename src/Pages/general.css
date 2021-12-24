@@ -1,0 +1,47 @@
+.general__title{
+    text-align: center;
+	font-size: 24px;
+	margin: 25px 0 60px 0;
+    color: #fff;
+}
+.general__card {
+    background-color: #fff;
+    font-family: monospace;
+    height: 250px;
+    width: 280px;
+    border-radius: 5px;
+    margin-bottom: 40px;
+}
+
+.content {
+    padding: 0 15px 0 25px;
+}
+
+
+.photo {
+    max-width: 150px;
+    border-radius: 75px;
+    margin-top: -50px;
+}
+
+
+.general__name {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 0;
+    padding: 20px 0 0 5px;
+	margin-bottom: 25px;
+}
+.general__description{
+	padding-left: 5px;
+}
+
+.general__link{
+	text-decoration: none;
+	padding-left: 5px;
+	color: #000;
+}
+
+.general__link:hover{
+    color: rgb(16, 123, 150);
+}

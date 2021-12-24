@@ -1,0 +1,13 @@
+.Title{
+  text-align: center;
+  font-size: 30px;
+  margin-top: 20px;
+}
+.Title_inner{
+  color: #fff;
+  text-decoration: none;
+}
+
+.Title_inner:hover{
+  color: #4bb7e9; 
+}

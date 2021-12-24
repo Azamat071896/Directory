@@ -1,0 +1,38 @@
+
+.Header{
+  display: flex;
+  top:50%;
+  left: 50%;
+  transform: translate3d(-50%,-50%, 0);
+  position: absolute;
+}
+
+
+
+.Header__list{
+  padding-left: 20px;
+  
+}
+
+.Header__list-link{
+  position: relative;
+  display: inline-block;
+  padding: 15px 30px;
+  color: #fff;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 4px;
+  overflow: hidden;
+  transition: 0.2s;
+  background: rgb(97, 14, 14);
+  border-radius: 10px;
+}
+
+.Header__list-link:hover{
+  color: #fff;
+  background: #0d77a8;
+  box-shadow: 0 0 10px #0d77a8,0 0 40px #0d77a8,0 0 80px #0d77a8;
+  transition-delay: 0.2s; 
+}

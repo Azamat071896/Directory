@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "image": "https://devkg.com/i/organizations-4c07d4a5f112f7ed2795f1c7150bf57f",
+    "title": "Jyldyz Akademy",
+    "description": "Веб иштеп чыгуу - Интернетте жашаган веб-сайттарды жана веб-тиркемелерди иштеп чыгуу практикасы",
+    "site": "https://webkg.super.site/",
+    "siteName": "Перейти на сайт",
+    "instaName": "Инстаграм",
+    "insta": "https://www.instagram.com/jyldyzacademy/"
+  },
+  {
+    "id": 2,
+    "image": "https://devkg.com/i/organizations-124df2aaf03a29d75470cd5b451b0e2a",
+    "title": "It Run",
+    "description": "Освой программирование  за 6 месяцев по методике IT-RUN в Бишкек",
+    "site": "https://itrun.kg/",
+    "siteName": "Перейти на сайт",
+    "instaName": "Инстаграм",
+    "insta": "https://www.instagram.com/itrun_kg/"
+  },
+  {
+    "id": 3,
+    "image": "https://scontent.ffru6-1.fna.fbcdn.net/v/t1.6435-9/48053181_561895170915494_2293605612300271616_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ylcNg5DigRkAX-XCWnG&_nc_ht=scontent.ffru6-1.fna&oh=00_AT_4RDiCvXIFPyhUONfPbP6pX7fgAodIYUualYMnDuTnyg&oe=61E6C979",
+    "title": "Makers",
+    "description": "Мы обучаем IT и digital профессиям. Разрабатываем сайты и приложения. Запускаем и помогаем запускать стартапы.Организовываем IT мероприятия",
+    "site": "https://makers.kg/",
+    "insta": "https://www.instagram.com/makerskg/"
+  },
+  {
+    "id": 4,
+    "image": "https://scontent.ffru6-1.fna.fbcdn.net/v/t1.6435-9/151097585_336596768002216_8893468933023278999_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=LhKCXNfEQu4AX9UXFsq&_nc_ht=scontent.ffru6-1.fna&oh=00_AT-5jnkGkD3nUhk5uNUjaZgkQJy0FeDszJwea1uJASsy4Q&oe=61E982FD",
+    "title": "Codify Lab",
+    "description": "Обучись с нуля до начинающего специалиста в любой IT профессии - Работай над реальными IT проектами в лаборатории Codify - Получи рекомендации по трудоустройству в IT компании",
+    "site": "https://www.codifylab.com/",
+    "siteName": "Перейти на сайт",
+    "instaName": "Инстаграм",
+    "insta": "https://www.instagram.com/codifylab.kg/"
+  },
+  {
+    "id": 5,
+    "image": "https://scontent.ffru6-1.fna.fbcdn.net/v/t1.6435-9/66188770_2258752287788229_1985074841295781888_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=9om4y1Xuc-EAX-LOf3r&_nc_ht=scontent.ffru6-1.fna&oh=00_AT_BULPMNzWbEPRdiLMNN5JEyCDaYoKurv_F7RcsmkY86w&oe=61E9245F",
+    "title": "Neolabs",
+    "description": "Запрограммируй свое будущее",
+    "site": "https://neolabs.dev/",
+    "siteName": "Перейти на сайт",
+    "instaName": "Инстаграм",
+    "insta": "https://www.instagram.com/neolabs_kg/"
+  },
+  {
+    "id": 6,
+    "image": "https://scontent.ffru6-1.fna.fbcdn.net/v/t1.6435-9/106892294_113703317064413_3258726433138496438_n.png?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=CeaaNel-C_wAX86oTvw&_nc_ht=scontent.ffru6-1.fna&oh=00_AT8UlkmJHOtj-HSQVq-Kud2ttt6_0Wap_BinBmGAiBwU0w&oe=61E89BE2",
+    "title": "Itacademy",
+    "description": "Выбери свой формат — от тестовых краткосрочных курсов, до 10 месяцев полноценного обучения профессии",
+    "site": "https://it-academy.kg/",
+    "siteName": "Перейти на сайт",
+    "instaName": "Инстаграм",
+    "insta": "https://www.instagram.com/itacademy.kg/"
+  },
+  {
+    "id": 7,
+    "image": "https://scontent.ffru6-1.fna.fbcdn.net/v/t1.6435-9/56966817_452496075487840_8698281073391435776_n.png?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=E95JXjXZXbgAX_i7Wf-&_nc_ht=scontent.ffru6-1.fna&oh=00_AT8zK7rmRIkAwmWupDNcu2S29F6cDz_rODNoFcpmPlGtVA&oe=61E826FF",
+    "title": "PeakSoft House",
+    "description": "IT ни үйрөнүп жашооңду өзгөрт",
+    "site": "https://peaksoft.school/",
+    "siteName": "Перейти на сайт",
+    "instaName": "Инстаграм",
+    "insta": "https://www.instagram.com/peaksoft.house/"
+  },
+  {
+    "id": 8,
+    "image": "https://scontent.ffru6-1.fna.fbcdn.net/v/t1.6435-9/105752549_104957517941899_3884840738335041982_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=oWExFaNJp08AX8lmEyY&tn=0vB7PAehQLvfGfKK&_nc_ht=scontent.ffru6-1.fna&oh=00_AT9_nqS285C_vp08OuYpbDbAD06XUFeCqbBVjrVouJbkUQ&oe=61E9AFD3",
+    "title": "50kprogrammers",
+    "description": "Онлайн-обучение востребованным профессиям для УЯЗВИМЫХ СЛОЕВ НАСЕЛЕНИЯ!",
+    "site": "https://programmer.kg/",
+    "siteName": "Перейти на сайт",
+    "instaName": "Инстаграм",
+    "insta": "https://www.instagram.com/50kprogrammers.kg/"
+  }
+]
+

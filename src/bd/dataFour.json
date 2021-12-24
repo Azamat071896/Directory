@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Кодим на интенсиве",
+    "description": "Это чат интенсивов от Glo Academy. В нём можно попросить помощи и поболтать с единомышленниками",
+    "link": "https://t.me/c/1380585422/138824",
+    "linkName": "Перейти на Канал",
+    "image": "https://lh3.googleusercontent.com/2K8ALs2U_qUWOtS_aT-CoGxMtUHqgZ6-PHb_77GpbndLqAsSJmipBQhXgQKc9trrxmbaAg=s85"
+  },
+  {
+    "id": 2,
+    "name": "Frontend Tests & Tasks",
+    "description": "Тесты и задачи по фронтенду (js, html, css)",
+    "link": "https://t.me/frontend_tests/96",
+    "linkName": "Перейти на Канал",
+    "image": "https://lh3.googleusercontent.com/NHwShzE0LJyUsTrmd5hRimINzGUa3iwJ-EmPV8wIrUETJmMm1KaWgm-0yYPux9Zjf19qusQ=s85"
+  },
+  {
+    "id": 3,
+    "name": "Node.js",
+    "description": "Русскоговорящее сообщество",
+    "link": "https://t.me/nodejs_ru/654034",
+    "linkName": "Перейти на Канал",
+    "image": "https://lh3.googleusercontent.com/8DbIa0EWezTCoN9III8KOIgFhtc09apAo9cBcHWaBeSka_IL9MuxWGz382LaoajKwmv7fQ=s85"
+  },
+  {
+    "id": 4,
+    "name": "Love Frontend Chat",
+    "description": "Любые вопросы по разработке тут. Непринуждённое живое общение. Не только касаемо разработки, можно офф-топ",
+    "link": "https://t.me/love_frontend_chat/347920",
+    "linkName": "Перейти на Канал",
+    "image": "https://lh3.googleusercontent.com/2bla6U51P4fpr2x4CVhV6aINA3j_obGjqbitaxxkLL7HaT6JmNp6OpRHZHNjn_ScPRyEjg=s85"
+  },
+  {
+    "id": 5,
+    "name": "ECMAScript Developers",
+    "description": "Ресурсы связанные с IT в Кыргызстане",
+    "link": "https://t.me/jsdevs/17241",
+    "linkName": "Перейти на Канал",
+    "image": "https://lh3.googleusercontent.com/XYthD_cXwyw3u9-9Uwm-hUkxvnf7F4cQZlJWOLUbC902_16ZtjzzNOZbMFFkPKQ_VFr5Qg=s85"
+  },
+  {
+    "id": 6,
+    "name": "Задачи по Frontend",
+    "description": "Задачки по Frontend в виде опросов. Поможет вам начать разбираться в верстке и frontend разработке",
+    "link": "https://t.me/frontendquestions/537",
+    "linkName": "Перейти на Канал",
+    "image": "https://lh3.googleusercontent.com/GtBM0IYekz8T0uxbW5RGx-n0mEGfD_D7iXRwaBAUnMcMJkP3VSrzH1rXHmtVW4z-oF8trg=s85"
+  },
+  {
+    "id": 7,
+    "name": "Верстальщик от бога",
+    "description": "Самый большой канал по верстке в телеграм",
+    "link": "https://t.me/godinhtml/950",
+    "linkName": "Перейти на Канал",
+    "image": "https://lh3.googleusercontent.com/VqkkivfmbKCGtFUP6DqwYwjpVPjyUV2Q7zZpLoxwbK0d826SLKaLHJiWjToYV0OnQRQ9Kes=s85"
+  },
+  {
+    "id": 8,
+    "name": "SNIEDA | Web-development",
+    "description": "Единственный телеграмм канал, который научит тебя веб разработке быстро и бесплатно !",
+    "link": "https://t.me/sniedaweb/78",
+    "linkName": "Перейти на Канал",
+    "image": "https://lh3.googleusercontent.com/mOfpH3wChDT6ROUbUNSfsIxzUDgDBtiQFDKBV9wCdp-TDtTT5LwjWI3doYmhUtFUsPtKIw=s85"
+  }
+]

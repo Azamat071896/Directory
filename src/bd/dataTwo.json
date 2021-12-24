@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Владилен Минин",
+    "description": "JavaScript, React js, Redux, Vue js, Angular js, Node js, Git, Github",
+    "link": "https://www.youtube.com/c/VladilenMinin/featured",
+    "linkName": "Перейти на Канал",
+    "image": "https://yt3.ggpht.com/TTUUbXQCoDs8cvUB_r2JmCu2XfCsJAB7Mi8YPiNs01TrxAZCxSxQo2xdgN1wUwGz9wEURAIT=s88-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "id": 2,
+    "name": "IT-KAMASUTRA",
+    "description": "Канал про программирование на JavaScript. Секреты и инсайды, как стать программистом абсолютно любому человеку. ",
+    "link": "https://www.youtube.com/c/ITKAMASUTRA/about",
+    "linkName": "Перейти на Канал",
+    "image": "https://yt3.ggpht.com/ytc/AKedOLS1AZhEVoT69mDznUiqA5tTkS4D47iqYSE7eYpNCg=s88-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "id": 3,
+    "name": "WebDev с нуля",
+    "description": "Веб разработка для начинающих. Уроки, разборы кода, хакинги, JavaScript, PHP, Node.js",
+    "link": "https://www.youtube.com/c/itgid/about",
+    "linkName": "Перейти на Канал",
+    "image": "https://yt3.ggpht.com/ytc/AKedOLSMXSedJKxsfJEti0RvNvKMqSWFr3cP3tCdjbCmpw=s88-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "id": 4,
+    "name": "RED Group",
+    "description": "На данном канала, Вы найдете обучающие уроки по разработке, дизайну и маркетингу. А так же большие плейлисты с разработкой реальных проектов с 0.",
+    "link": "https://www.youtube.com/c/REDGroup/about",
+    "linkName": "Перейти на Канал",
+    "image": "https://yt3.ggpht.com/19_8_gmr_diY_VvDlM3A9-42OekDsp7Eq8-Iu2LAxEUBB8NltgMhB3dd88Myni4kaLdkCxXJSg=s88-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "id": 5,
+    "name": "Jyldyz Academy",
+    "description": "Jyldyz Academy - это сообщество цифровых кочевников, наше коллективное видение - сделать обучение 21 века реальностью для всех.",
+    "link": "https://www.youtube.com/channel/UCkqBf3GCgrfO0innMSJm_jg/about",
+    "linkName": "Перейти на Канал",
+    "image": "https://yt3.ggpht.com/ytc/AKedOLTPaOBrmjLO6w--KjVgFUo1cJKjiSwm50PK2sc=s88-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "id": 6,
+    "name": "webDev",
+    "description": "webDev - образовательный канал о веб-разработке. Здесь вы найдёте курсы по: HTML, CSS, JavaScript, React, VueJS, Node.js, TypeScript, GraphQL, Redux, NextJS, Redux",
+    "link": "https://www.youtube.com/c/YauhenKavalchuk/about",
+    "linkName": "Перейти на Канал",
+    "image": "https://yt3.ggpht.com/ytc/AKedOLSWQOQgR_UX_J97H0_fO3ZVZjHuXDbHdVWqTGB0yA=s88-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "id": 7,
+    "name": "Oldest Junior",
+    "description": "Канал о том как я стал фронтенд разработчиком.",
+    "link": "https://www.youtube.com/c/OldestJunior/about",
+    "linkName": "Перейти на Канал",
+    "image": "https://yt3.ggpht.com/xCMc2dX-rX3-uF-gV6dFt-R0sQH9rUwX4N6S4UW44qCZrh0YgljvsIDUHa-L2w2jMWxqEQ5gvFM=s88-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "id": 8,
+    "name": "Glo Academy",
+    "description": "На канале вы найдете практические уроки и мини-курсы по веб-разработке",
+    "link": "https://www.youtube.com/c/GloAcademyChannel/about",
+    "linkName": "Перейти на Канал",
+    "image": "https://yt3.ggpht.com/ytc/AKedOLRGskjfArXXcT0lahmxJP2JeYHdHkBAyga5Bsh0=s88-c-k-c0x00ffffff-no-rj"
+  }
+]
