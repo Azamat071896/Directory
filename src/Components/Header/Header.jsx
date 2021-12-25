@@ -22,6 +22,9 @@ const Header = () =>{
           <Link to="/blogger" className='Header__list-link'>Блогеры</Link>
         </div>
       </div>
+      <div className='gmail'>
+      <span className="gmail__link">azamat.kanatbekov.kk@mail.com</span>
+      </div>
       </>
     )  
   }
