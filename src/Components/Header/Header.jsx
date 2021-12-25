@@ -19,7 +19,7 @@ const Header = () =>{
           <Link to="/telegram" className='Header__list-link'>Telegram</Link>
         </div>
         <div className='Header__list'>
-          <Link to="/blogger" className='Header__list-link'>Blogger</Link>
+          <Link to="/blogger" className='Header__list-link'>Блогеры</Link>
         </div>
       </div>
       </>
